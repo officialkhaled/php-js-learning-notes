@@ -26,8 +26,3 @@ _(More to be added as I learn new things!)_
 
 ---
 
-## 🚀 How to Use
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/php-js-snippets.git
