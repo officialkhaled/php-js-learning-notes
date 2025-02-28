@@ -14,9 +14,4 @@ echo evenOrOdd(4); // Output: Even
 echo "\n";
 echo evenOrOdd(7); // Output: Odd
 
-/*
- * Create a function that takes an integer as an argument/parameter
- */
-
-
 ?>

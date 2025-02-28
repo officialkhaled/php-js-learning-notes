@@ -9,4 +9,3 @@ function evenOrOdd(num) {
 
 console.log(evenOrOdd(4)); // Output: Even
 console.log(evenOrOdd(7)); // Output: Odd
-
